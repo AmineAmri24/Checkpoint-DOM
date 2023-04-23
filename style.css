@@ -1,0 +1,60 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+
+.thebook img{
+    width: 200px;
+    height: 250px;
+    border-radius: 3%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.thebook h3{
+    font-style: italic;
+    font-weight: bold;
+    margin-right:35%;
+    
+}
+
+.full_char{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5%;
+    padding-left: 5%;
+       
+}
+
+.user-interection{
+    justify-content: space-between;
+    
+}
+
+.quantity p{
+   font-size:x-large;
+}
+
+.price p{
+    font-size: x-large;
+}
+
+.final-price{
+    font-size:xx-large;
+    margin-left:
+}
+
+.carousel-item{
+    height:500px;
+    width: 1600px;
+}
+
+.footer{
+    background-color: rgb(128, 136, 136);
+    padding-bottom: 3%;
+    text-align: center;
+    
+}
+
+.fa-brands{
+    justify-content: space-between;
+    margin: auto;
+}
+
